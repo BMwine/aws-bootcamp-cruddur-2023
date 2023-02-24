@@ -25,10 +25,6 @@
 
 1. Created an architectural diagram the CI/CD logical pipeline in Lucid Charts.
 
+![Architecture](https://user-images.githubusercontent.com/28305009/221287082-63a88043-94cd-4067-9e0d-4be0b64e5233.PNG)
 
-
-1. 
-
-
-Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
-Open a support ticket and request a service limit
+1. Opened a support ticket and request a service limit
