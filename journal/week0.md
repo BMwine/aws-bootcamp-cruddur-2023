@@ -9,20 +9,12 @@
 ![AWS Billing Alert Creation](https://user-images.githubusercontent.com/28305009/221284479-4fa159e8-c944-4592-8350-05a60e8e2f14.png)
 
 
-2. Launching AWS CloudShell and looking at AWS CLI
+2. Launching AWS CloudShell and looking at AWS CLI by displaying AWS account details:
 
 
 
 
 
-Generating AWS credentials
-
-Business Scenario
-Your company has asked to put together a technical presentation on the proposed architecture that will be implemented so it can be reviewed by the fractional CTO.
-
-Your presentation must include a technical architectural diagram and breakdown of possible services used along with their justification.
-
-The company also wants to generally know what spend we expect to encounter and how we will ensure we keep our spending low.
 
 Weekly Outcome
 Gain confidence when working meter-billing with a Cloud Service Provider (CSP)
