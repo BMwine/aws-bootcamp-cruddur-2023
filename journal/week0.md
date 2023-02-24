@@ -11,25 +11,10 @@
 
 2. Launching AWS CloudShell and looking at AWS CLI by displaying AWS account details:
 
+![AWS Cloud Shell](https://user-images.githubusercontent.com/28305009/221285847-3582673d-bdbd-4e26-9e28-3bc58452145b.png)
 
+### Weekly Outcome from work done:
 
-
-
-
-Weekly Outcome
-Gain confidence when working meter-billing with a Cloud Service Provider (CSP)
-To understand how to build useful architecture diagrams
-To gain a general idea of the cost of common cloud services
-To ensure we have a working AWS account
-
-Possible Spend Considerations
-You need a credit card to activate your AWS Account
-If your AWS account is older than a year, you will not be eligible for some free-tier services.
-Alternatives and Considerations
-…
-
-Security Considerations
-…
 
  Homework Challenges
 Destroy your root account credentials, Set MFA, IAM role
