@@ -15,23 +15,12 @@
 
 ### Weekly Outcome from work done:
 
+1. Destroy your root account credentials, Set MFA, IAM role
 
- Homework Challenges
-Destroy your root account credentials, Set MFA, IAM role
+
+
 Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
 Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
 Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
 Open a support ticket and request a service limit
-
-
-Week 0 — Bootcamp Overview and Introduction to Cloud Spend	19
-Technical Tasks	19
-Business Scenario	19
-Weekly Outcome	19
-Possible Spend Considerations	19
-Alternatives and Considerations	20
-Security Considerations	20
-Homework Challenges
-
-
