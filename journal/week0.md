@@ -4,12 +4,17 @@
 
 ### Technical Tasks performed:
 
-- Setup AWS Budgets,  AWS Cost Explorer, Billing Alarms in the AWS free-tier account and understood how to track spend in AWS. Below are screenshots:
+1. Setup AWS Budgets,  AWS Cost Explorer, Billing Alarms in the AWS free-tier account and understood how to track spend in AWS. Below are screenshots:
+
+![AWS Billing Alert Creation](https://user-images.githubusercontent.com/28305009/221284479-4fa159e8-c944-4592-8350-05a60e8e2f14.png)
+
+
+2. Launching AWS CloudShell and looking at AWS CLI
 
 
 
-Understanding how to look at monthly billing reports
-Launching AWS CloudShell and looking at AWS CLI
+
+
 Generating AWS credentials
 
 Business Scenario
