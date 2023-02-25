@@ -6,16 +6,8 @@
 
 1. Containerized the backend app
 
+![Containerized the Backend App](https://user-images.githubusercontent.com/28305009/221349898-5bea5f43-cf5b-422e-a54e-bf5a80d786c7.PNG)
 
-
-
-Week 1 — Docker and App Containerization
-
-Technical Tasks
-In this class, we are going to:
-Create a new GitHub repo
-Launch the repo within a Gitpod workspace
-Configure Gitpod.yml configuration, eg. VSCode Extensions
 Clone the frontend and backend repo
 Explore the codebases
 Ensure we can get the apps running locally
