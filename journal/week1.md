@@ -11,12 +11,19 @@
 
 1. Write a Dockerfile for each app
 
+![Both Dockerfiles](https://user-images.githubusercontent.com/28305009/221354637-af4a23bb-7fdc-4304-9b69-0bd2bc76cf75.PNG)
+
+1. Ensure we get the apps running via individual container
 
 
-Ensure we get the apps running via individual container
-Create a docker-compose file
+
+
+
+1. Create a docker-compose file
+
+
 Ensure we can orchestrate multiple containers to run side by side
-Mount directories so we can make changes while we code
+
 
 Business Scenario
 Your company has received the code repositories for the demo application from the contracted web-development firm. The company wants you to investigate the codebases, and ensure you can get them running.
