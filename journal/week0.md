@@ -19,12 +19,11 @@
 
 ![IAM_User_Creation](https://user-images.githubusercontent.com/28305009/221286470-0eb8a0d2-2711-4172-a9a3-9e6af98ab2c0.png)
 
-1. Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
-
-
-
 1. Created an architectural diagram the CI/CD logical pipeline in Lucid Charts.
 
 ![Architecture](https://user-images.githubusercontent.com/28305009/221287082-63a88043-94cd-4067-9e0d-4be0b64e5233.PNG)
 
 1. Opened a support ticket and request a service limit
+
+![support ticket and request a service limit](https://user-images.githubusercontent.com/28305009/221341715-59cdac4e-708b-4b0a-97a5-fd83e7cdda5f.PNG)
+
