@@ -8,10 +8,11 @@
 
 ![Containerized the Backend App](https://user-images.githubusercontent.com/28305009/221349898-5bea5f43-cf5b-422e-a54e-bf5a80d786c7.PNG)
 
-Clone the frontend and backend repo
-Explore the codebases
-Ensure we can get the apps running locally
-Write a Dockerfile for each app
+
+1. Write a Dockerfile for each app
+
+
+
 Ensure we get the apps running via individual container
 Create a docker-compose file
 Ensure we can orchestrate multiple containers to run side by side
@@ -31,6 +32,9 @@ Gitpod was since it supports multiple Version Control Services (VCS).. The compa
 
 Weekly Outcome
 Gain practical knowledge working with common docker command and running container images for the purpose of local development
+
+![image](https://user-images.githubusercontent.com/28305009/221352888-2994dadf-1652-47af-a679-f5181c3b6792.png)
+
 Gain practical knowledge of working within a Cloud Development environment
 Be able to navigate a backend and front web-application and generally understand how they work 
 
